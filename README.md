@@ -1,4 +1,4 @@
-# Hi, I'm Manglam! 👋
+# Hi, I'm Kumar Manglam
 
 ### 🚀 Aspiring Software Engineer | Data Structures Enthusiast | Web Developer
 
