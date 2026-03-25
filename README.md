@@ -15,20 +15,9 @@ I am a passionate developer currently preparing for upcoming placements. I love 
 
 ---
 
-### 🏗️ Featured Projects
-#### [Learning Management System (LMS)]() 
-* **Tech Stack:** JavaScript, jQuery, [Your Backend Tech]
-* **Key Features:** User authentication, course tracking, and interactive UI components.
-* **What I learned:** Deep dive into DOM manipulation and state management.
-
-#### [Project Name 2]()
-* *Brief 1-sentence description of another project.*
-
----
-
 ### 📊 GitHub Stats
-![Manglam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Manglam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuffyCode&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuffyCode&layout=compact&theme=radical)
 
 ---
 
