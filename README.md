@@ -20,7 +20,6 @@ I am a passionate developer currently preparing for upcoming placements. I speci
 ---
 
 ### GitHub Activity
-![Manglam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuffyCode&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuffyCode&layout=compact&theme=radical)
 
 ---
