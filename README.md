@@ -19,11 +19,6 @@ I am a passionate developer currently preparing for upcoming placements. I speci
 
 ---
 
-### GitHub Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuffyCode&layout=compact&theme=radical)
-
----
-
 ### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-manglam-760142364/)
